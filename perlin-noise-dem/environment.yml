@@ -1,0 +1,9 @@
+name: env312
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - noise
+  - pyglet
+  - numpy
+  - gdal
