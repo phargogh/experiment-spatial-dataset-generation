@@ -7,3 +7,5 @@ dependencies:
   - pyglet
   - numpy
   - gdal
+  - rasterio
+  - ruff
